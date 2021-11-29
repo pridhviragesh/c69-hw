@@ -1,0 +1,20 @@
+img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.travel_main
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_main img
+{
+    width: 100%;
+}
+
+.travel_main h5, .travel_main p
+{
+    margin: 20px;
+}
